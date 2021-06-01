@@ -1,0 +1,67 @@
+{
+    "entryScene": "Scene_Game_Menu",
+    "recordingType": 0,
+    "recordings": [],
+    "touchData": [
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 3.300065040588379,
+            "position": {
+                "x": 0.5179027915000916,
+                "y": 0.21241825819015504
+            },
+            "positional": false,
+            "scene": "Scene_Game_Menu",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_TapToPlay",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Canvas_Menu/Panel_TapToPlay",
+            "objectOffset": {
+                "x": 0.0375976487994194,
+                "y": -0.013090101070702076
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.1431586742401123,
+            "position": {
+                "x": 0.5179027915000916,
+                "y": 0.21241825819015504
+            },
+            "positional": false,
+            "scene": "Scene_Game_Menu",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_TapToPlay",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Canvas_Menu/Panel_TapToPlay",
+            "objectOffset": {
+                "x": 0.0375976487994194,
+                "y": -0.013090101070702076
+            }
+        },
+        {
+            "pointerId": 0,
+            "eventType": 0,
+            "timeDelta": 1.007631540298462,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "playbackComplete",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ]
+}

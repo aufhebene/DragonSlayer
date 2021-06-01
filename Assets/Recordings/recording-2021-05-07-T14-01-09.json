@@ -1,0 +1,667 @@
+{
+    "entryScene": "Scene_Game_Menu",
+    "recordingType": 0,
+    "recordings": [],
+    "touchData": [
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.7263762950897217,
+            "position": {
+                "x": 0.5320910811424255,
+                "y": 0.45491141080856326
+            },
+            "positional": true,
+            "scene": "Scene_Game_Menu",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.10643661022186279,
+            "position": {
+                "x": 0.5320910811424255,
+                "y": 0.45491141080856326
+            },
+            "positional": true,
+            "scene": "Scene_Game_Menu",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.9577831029891968,
+            "position": {
+                "x": 0.4906832277774811,
+                "y": 0.20094318687915803
+            },
+            "positional": false,
+            "scene": "Scene_Game_Menu",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_TapToPlay",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Canvas_Menu/Panel_TapToPlay",
+            "objectOffset": {
+                "x": -0.01956615224480629,
+                "y": -0.05371900275349617
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.1517266035079956,
+            "position": {
+                "x": 0.4865424633026123,
+                "y": 0.18990108370780946
+            },
+            "positional": false,
+            "scene": "Scene_Game_Menu",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_TapToPlay",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Canvas_Menu/Panel_TapToPlay",
+            "objectOffset": {
+                "x": -0.028262147679924966,
+                "y": -0.09281482547521591
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 2.5032129287719728,
+            "position": {
+                "x": 0.39751553535461428,
+                "y": 0.4917184114456177
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.10544157028198242,
+            "position": {
+                "x": 0.39751553535461428,
+                "y": 0.4917184114456177
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.24954700469970704,
+            "position": {
+                "x": 0.4523809552192688,
+                "y": 0.48803773522377016
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.0,
+            "position": {
+                "x": 0.4523809552192688,
+                "y": 0.48803773522377016
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.17227888107299806,
+            "position": {
+                "x": 0.3550724685192108,
+                "y": 0.465953528881073
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.10583114624023438,
+            "position": {
+                "x": 0.47308486700057986,
+                "y": 0.4475500285625458
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.20000028610229493,
+            "position": {
+                "x": 0.4896480441093445,
+                "y": 0.4457097053527832
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.0,
+            "position": {
+                "x": 0.4896480441093445,
+                "y": 0.4457097053527832
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.19999980926513673,
+            "position": {
+                "x": 0.37577641010284426,
+                "y": 0.4457097053527832
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.0,
+            "position": {
+                "x": 0.37577641010284426,
+                "y": 0.4457097053527832
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.10650157928466797,
+            "position": {
+                "x": 0.5351966619491577,
+                "y": 0.4457097053527832
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.09999990463256836,
+            "position": {
+                "x": 0.5279503464698792,
+                "y": 0.4457097053527832
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 17.475242614746095,
+            "position": {
+                "x": 0.5196687579154968,
+                "y": 0.5064412355422974
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.10585784912109375,
+            "position": {
+                "x": 0.5196687579154968,
+                "y": 0.5064412355422974
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 15.151355743408204,
+            "position": {
+                "x": 0.10559006035327912,
+                "y": 0.19542212784290315
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Slider_AbilityCharge",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Battle/Canvas_Battle/Panel_UnitDisplays_Heroes/UI_Unit_Display_Witch_Giorgia/Canvas_Nested/Panel_Ring/Panel_Ability_Special",
+            "objectOffset": {
+                "x": 0.33822324872016909,
+                "y": 0.0834493413567543
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.11229324340820313,
+            "position": {
+                "x": 0.1677018702030182,
+                "y": 0.1825396865606308
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.8988876342773438,
+            "position": {
+                "x": 0.22256729006767274,
+                "y": 0.1825396865606308
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Slider_AbilityCharge",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Battle/Canvas_Battle/Panel_UnitDisplays_Heroes/UI_Unit_Display_Knight_Jarek/Canvas_Nested/Panel_Ring/Panel_Ability_Special",
+            "objectOffset": {
+                "x": 0.13805241882801057,
+                "y": -0.001709225121885538
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.11119461059570313,
+            "position": {
+                "x": 0.23913045227527619,
+                "y": 0.18438003957271577
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 0.6332283020019531,
+            "position": {
+                "x": 0.3447205126285553,
+                "y": 0.17517828941345216
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Slider_AbilityCharge",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Battle/Canvas_Battle/Panel_UnitDisplays_Heroes/UI_Unit_Display_Wolfman_Oriz/Canvas_Nested/Panel_Ring/Panel_Ability_Special",
+            "objectOffset": {
+                "x": -0.0021648863330483438,
+                "y": -0.05037164315581322
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.11143112182617188,
+            "position": {
+                "x": 0.336438924074173,
+                "y": 0.17517828941345216
+            },
+            "positional": true,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 10.299407958984375,
+            "position": {
+                "x": 0.07763974368572235,
+                "y": 0.18438003957271577
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_Ability_Activate",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Battle/Canvas_Battle/Panel_UnitDisplays_Heroes/UI_Unit_Display_Witch_Giorgia/Canvas_Nested/Panel_Ring/Panel_Ability_Special",
+            "objectOffset": {
+                "x": 0.011932832188904286,
+                "y": 0.008587398566305638
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.11465835571289063,
+            "position": {
+                "x": 0.07763974368572235,
+                "y": 0.18438003957271577
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_Ability_Activate",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Battle/Canvas_Battle/Panel_UnitDisplays_Heroes/UI_Unit_Display_Witch_Giorgia/Canvas_Nested/Panel_Ring/Panel_Ability_Special",
+            "objectOffset": {
+                "x": 0.011932832188904286,
+                "y": 0.008587398566305638
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 6.7474365234375,
+            "position": {
+                "x": 0.21635611355304719,
+                "y": 0.17885899543762208
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_Ability_Activate",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Battle/Canvas_Battle/Panel_UnitDisplays_Heroes/UI_Unit_Display_Knight_Jarek/Canvas_Nested/Panel_Ring/Panel_Ability_Special",
+            "objectOffset": {
+                "x": 0.05443916097283363,
+                "y": -0.021386031061410905
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.11281204223632813,
+            "position": {
+                "x": 0.21635611355304719,
+                "y": 0.17885899543762208
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_Ability_Activate",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Battle/Canvas_Battle/Panel_UnitDisplays_Heroes/UI_Unit_Display_Knight_Jarek/Canvas_Nested/Panel_Ring/Panel_Ability_Special",
+            "objectOffset": {
+                "x": 0.05443916097283363,
+                "y": -0.021386031061410905
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 2.8696022033691408,
+            "position": {
+                "x": 0.35300207138061526,
+                "y": 0.1733379364013672
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_Ability_Activate",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Battle/Canvas_Battle/Panel_UnitDisplays_Heroes/UI_Unit_Display_Wolfman_Oriz/Canvas_Nested/Panel_Ring/Panel_Ability_Special",
+            "objectOffset": {
+                "x": 0.07720166444778443,
+                "y": -0.05135980248451233
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.11309814453125,
+            "position": {
+                "x": 0.35300207138061526,
+                "y": 0.1733379364013672
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "Button_Ability_Activate",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Battle/Canvas_Battle/Panel_UnitDisplays_Heroes/UI_Unit_Display_Wolfman_Oriz/Canvas_Nested/Panel_Ring/Panel_Ability_Special",
+            "objectOffset": {
+                "x": 0.07720166444778443,
+                "y": -0.05135980248451233
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 1,
+            "timeDelta": 3.8294830322265627,
+            "position": {
+                "x": 0.5020703673362732,
+                "y": 0.2561536729335785
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "UI_Button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Ended/Canvas_Victory",
+            "objectOffset": {
+                "x": 0.008877829648554325,
+                "y": 0.18660950660705567
+            }
+        },
+        {
+            "pointerId": -1,
+            "eventType": 2,
+            "timeDelta": 0.11408233642578125,
+            "position": {
+                "x": 0.522774338722229,
+                "y": 0.25247299671173098
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Skeletons",
+            "waitSignal": "",
+            "emitSignal": "",
+            "objectName": "UI_Button",
+            "objectTag": "Untagged",
+            "objectHierarchy": "UI/Ended/Canvas_Victory",
+            "objectOffset": {
+                "x": 0.09765684604644776,
+                "y": 0.16813744604587556
+            }
+        },
+        {
+            "pointerId": 0,
+            "eventType": 0,
+            "timeDelta": 1.6762008666992188,
+            "position": {
+                "x": 0.0,
+                "y": 0.0
+            },
+            "positional": false,
+            "scene": "Scene_Battle_Dragon",
+            "waitSignal": "",
+            "emitSignal": "playbackComplete",
+            "objectName": "",
+            "objectTag": "",
+            "objectHierarchy": "",
+            "objectOffset": {
+                "x": 0.0,
+                "y": 0.0
+            }
+        }
+    ]
+}

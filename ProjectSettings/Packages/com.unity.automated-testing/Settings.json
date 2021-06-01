@@ -1,0 +1,13 @@
+{
+    "m_Name": "Settings",
+    "m_Path": "ProjectSettings/Packages/com.unity.automated-testing/Settings.json",
+    "m_Dictionary": {
+        "m_DictionaryValues": [
+            {
+                "type": "Unity.AutomatedQA.HostPlatform, Unity.AutomatedQA, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+                "key": "hostPlatform",
+                "value": "{\"m_Value\":1}"
+            }
+        ]
+    }
+}
