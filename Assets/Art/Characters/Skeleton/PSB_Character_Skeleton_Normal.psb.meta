@@ -7433,364 +7433,6 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 99, y: -759}
-  platformSettings:
-  - name: Default
-    overridden: 1
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: DefaultTexturePlatform
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: iPhone
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Android
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: WebGL
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  mosaicLayers: 1
-  documentPivot: {x: 0, y: 0}
-  documentAlignment: 7
-  importHiddenLayers: 1
-  importedTextureWidth: 1024
-  importedTextureHeight: 1024
-  documentSize: {x: 1024, y: 1024}
-  paperDollMode: 0
-  keepDupilcateSpriteName: 0
-  spriteCategoryList:
-    categories: []
-  textureActualWidth: 1024
-  textureActualHeight: 1024
-  spritePackingTag: 
-  resliceFromLayer: 1
-  characterMode: 1
-  mosaicPSDLayers:
-  - name: shoulder plate L
-    spriteName: shoulder plate L
-    isGroup: 0
-    parentIndex: -1
-    spriteID: e762022f3ea22429d97edcd170ed2595
-    layerID: 13
-    mosaicPosition: {x: 160, y: 912}
-  - name: mouth
-    spriteName: mouth
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 484475ca2e5eb40519c28fa1eb3dd081
-    layerID: 12
-    mosaicPosition: {x: 312, y: 876}
-  - name: eye R
-    spriteName: eye R
-    isGroup: 0
-    parentIndex: -1
-    spriteID: f767c2b6d59c34d308a93229ec3cd9d3
-    layerID: 11
-    mosaicPosition: {x: 4, y: 870}
-  - name: eye L
-    spriteName: eye L
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c12c84f95dc0a4f92b0bd7d5e02ea31f
-    layerID: 10
-    mosaicPosition: {x: 312, y: 827}
-  - name: head
-    spriteName: head
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c49ffd8939d064284b092e2dafc3ac9a
-    layerID: 9
-    mosaicPosition: {x: 160, y: 314}
-  - name: neck element
-    spriteName: neck element
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 13446892aadb74736bf8974b5484f8b4
-    layerID: 8
-    mosaicPosition: {x: 160, y: 827}
-  - name: neck
-    spriteName: neck
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 8cb70bc824ff040d898d3370d0ff8203
-    layerID: 7
-    mosaicPosition: {x: 4, y: 777}
-  - name: arm L
-    spriteName: arm L
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 5d481cb778aba44a2875b2c34567ac02
-    layerID: 6
-    mosaicPosition: {x: 160, y: 507}
-  - name: torso
-    spriteName: torso
-    isGroup: 0
-    parentIndex: -1
-    spriteID: f4f88bd6dfb8c4362a993cfe22e1ce52
-    layerID: 5
-    mosaicPosition: {x: 160, y: 4}
-  - name: shoulder plate R
-    spriteName: shoulder plate R
-    isGroup: 0
-    parentIndex: -1
-    spriteID: a98661bb75e06447cbbb3cb18ae57430
-    layerID: 4
-    mosaicPosition: {x: 267, y: 912}
-  - name: leg L
-    spriteName: leg L
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 0218cc179d2104b1eb088851b050ecce
-    layerID: 3
-    mosaicPosition: {x: 4, y: 4}
-  - name: leg R
-    spriteName: leg R
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c5e4f5bed94274939b11af07b6a608ec
-    layerID: 2
-    mosaicPosition: {x: 4, y: 392}
-  - name: arm R
-    spriteName: arm R
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 1d6cb6e33c02f4e95aefc8ffba6f70c2
-    layerID: 1
-    mosaicPosition: {x: 321, y: 4}
-  rigPSDLayers:
-  - name: shoulder plate R
-    spriteName: shoulder plate R
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 752525a065c5b42788ca0a700de3c59c
-    layerID: 29
-    mosaicPosition: {x: 4, y: 821}
-  - name: arm R
-    spriteName: arm R
-    isGroup: 0
-    parentIndex: -1
-    spriteID: ff455addc3ccf431ba70e232fabe1ebd
-    layerID: 28
-    mosaicPosition: {x: 153, y: 633}
-  - name: hand R bottom
-    spriteName: hand R bottom
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c09144f40e17c4d5aa2b087346655f56
-    layerID: 27
-    mosaicPosition: {x: 306, y: 797}
-  - name: hair front
-    spriteName: hair front
-    isGroup: 0
-    parentIndex: -1
-    spriteID: bf9d1dc82a29249bbb907e5a0bd5eade
-    layerID: 26
-    mosaicPosition: {x: 306, y: 4}
-  - name: mouth
-    spriteName: shoulder plate L
-    isGroup: 1
-    parentIndex: -1
-    spriteID: 695c519864bef4fd199225979fecd3a2
-    layerID: 25
-    mosaicPosition: {x: 160, y: 912}
-  - name: mouth open
-    spriteName: mouth open
-    isGroup: 0
-    parentIndex: 4
-    spriteID: 9c9d78c0ca4c347b1ad1731ac8c8f4db
-    layerID: 24
-    mosaicPosition: {x: 306, y: 581}
-  - name: mouth teeth
-    spriteName: mouth teeth
-    isGroup: 0
-    parentIndex: 4
-    spriteID: a273c3499cf154e649d15ae80173fefd
-    layerID: 23
-    mosaicPosition: {x: 474, y: 107}
-  - name: mouth normal
-    spriteName: mouth normal
-    isGroup: 0
-    parentIndex: 4
-    spriteID: 9ad7bd2cd37254ce58a7385ddf0869ed
-    layerID: 22
-    mosaicPosition: {x: 474, y: 179}
-  - name: eye L
-    spriteName: mouth teeth
-    isGroup: 1
-    parentIndex: -1
-    spriteID: 1bfaa200336594da68a17963a45145af
-    layerID: 20
-    mosaicPosition: {x: 160, y: 995}
-  - name: eye L closed
-    spriteName: eye L closed
-    isGroup: 0
-    parentIndex: 8
-    spriteID: a3f0eb971c86446fb8eb4c6c6fcc47fd
-    layerID: 19
-    mosaicPosition: {x: 117, y: 990}
-  - name: eye L open
-    spriteName: eye L open
-    isGroup: 0
-    parentIndex: 8
-    spriteID: 0037cebc007364a748f1f6db06009be9
-    layerID: 18
-    mosaicPosition: {x: 153, y: 972}
-  - name: eye R
-    spriteName: eye R closed
-    isGroup: 1
-    parentIndex: -1
-    spriteID: 275e3ee62c3954d319c82a9b2ec6e4ef
-    layerID: 16
-    mosaicPosition: {x: 123, y: 810}
-  - name: eye R closed
-    spriteName: eye R closed
-    isGroup: 0
-    parentIndex: 11
-    spriteID: b7f9379a5d9c4437f87513c7d6cd586e
-    layerID: 15
-    mosaicPosition: {x: 96, y: 990}
-  - name: eye R open
-    spriteName: eye R open
-    isGroup: 0
-    parentIndex: 11
-    spriteID: a774d23ee153c46549ea93ece08777b4
-    layerID: 14
-    mosaicPosition: {x: 96, y: 942}
-  - name: head
-    spriteName: head
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 62a5ef3d8641d4dd0bc753447162c5cd
-    layerID: 12
-    mosaicPosition: {x: 306, y: 197}
-  - name: neck element
-    spriteName: neck element
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 81179e3d1615649f9a64e5cb47c8ec68
-    layerID: 11
-    mosaicPosition: {x: 698, y: 4}
-  - name: coat front
-    spriteName: coat front
-    isGroup: 0
-    parentIndex: -1
-    spriteID: b8e237a09fb6243e0a168529d83fc46b
-    layerID: 10
-    mosaicPosition: {x: 306, y: 348}
-  - name: neck
-    spriteName: neck
-    isGroup: 0
-    parentIndex: -1
-    spriteID: baa0f96b8738942fea0d54acb4ac905e
-    layerID: 9
-    mosaicPosition: {x: 306, y: 867}
-  - name: torso
-    spriteName: torso
-    isGroup: 0
-    parentIndex: -1
-    spriteID: f3d578b9808524e7293806b01581fbf6
-    layerID: 8
-    mosaicPosition: {x: 153, y: 4}
-  - name: leg R
-    spriteName: leg R
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 89ef3bff0103e450ba38f04e5cf90460
-    layerID: 7
-    mosaicPosition: {x: 4, y: 413}
-  - name: leg L
-    spriteName: leg L
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 45de5af0074044daba8e64dbf18260c5
-    layerID: 6
-    mosaicPosition: {x: 4, y: 4}
-  - name: coat back
-    spriteName: coat back
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 259ae881a0bfd437caece5cbc9be2b40
-    layerID: 5
-    mosaicPosition: {x: 306, y: 672}
-  - name: shoulder plate L
-    spriteName: shoulder plate L
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 0f7bcc1a6920c4dffa28d5d5ca075228
-    layerID: 4
-    mosaicPosition: {x: 306, y: 481}
-  - name: hand L top
-    spriteName: hand L top
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c498aa628ce7345578154f97d988696e
-    layerID: 3
-    mosaicPosition: {x: 4, y: 942}
-  - name: arm L
-    spriteName: arm L
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 1a72a03cef1db4816804ac7548e00910
-    layerID: 2
-    mosaicPosition: {x: 153, y: 316}
-  - name: hair back
-    spriteName: hair back
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 2429c7d02516f44b086ce3cd676a63ff
-    layerID: 1
-    mosaicPosition: {x: 474, y: 4}
   characterData:
     bones:
     - name: root
@@ -8228,8 +7870,377 @@ ScriptedImporter:
       order: 0
     dimension: {x: 0, y: 0}
     characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 1
+  importedTextureWidth: 1024
+  importedTextureHeight: 1024
+  documentSize: {x: 1024, y: 1024}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 1024
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 1
+  mosaicPSDLayers:
+  - name: shoulder plate L
+    spriteName: shoulder plate L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e762022f3ea22429d97edcd170ed2595
+    layerID: 13
+    mosaicPosition: {x: 160, y: 912}
+  - name: mouth
+    spriteName: mouth
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 484475ca2e5eb40519c28fa1eb3dd081
+    layerID: 12
+    mosaicPosition: {x: 312, y: 876}
+  - name: eye R
+    spriteName: eye R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f767c2b6d59c34d308a93229ec3cd9d3
+    layerID: 11
+    mosaicPosition: {x: 4, y: 870}
+  - name: eye L
+    spriteName: eye L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c12c84f95dc0a4f92b0bd7d5e02ea31f
+    layerID: 10
+    mosaicPosition: {x: 312, y: 827}
+  - name: head
+    spriteName: head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c49ffd8939d064284b092e2dafc3ac9a
+    layerID: 9
+    mosaicPosition: {x: 160, y: 314}
+  - name: neck element
+    spriteName: neck element
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 13446892aadb74736bf8974b5484f8b4
+    layerID: 8
+    mosaicPosition: {x: 160, y: 827}
+  - name: neck
+    spriteName: neck
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8cb70bc824ff040d898d3370d0ff8203
+    layerID: 7
+    mosaicPosition: {x: 4, y: 777}
+  - name: arm L
+    spriteName: arm L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 5d481cb778aba44a2875b2c34567ac02
+    layerID: 6
+    mosaicPosition: {x: 160, y: 507}
+  - name: torso
+    spriteName: torso
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f4f88bd6dfb8c4362a993cfe22e1ce52
+    layerID: 5
+    mosaicPosition: {x: 160, y: 4}
+  - name: shoulder plate R
+    spriteName: shoulder plate R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a98661bb75e06447cbbb3cb18ae57430
+    layerID: 4
+    mosaicPosition: {x: 267, y: 912}
+  - name: leg L
+    spriteName: leg L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0218cc179d2104b1eb088851b050ecce
+    layerID: 3
+    mosaicPosition: {x: 4, y: 4}
+  - name: leg R
+    spriteName: leg R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c5e4f5bed94274939b11af07b6a608ec
+    layerID: 2
+    mosaicPosition: {x: 4, y: 392}
+  - name: arm R
+    spriteName: arm R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1d6cb6e33c02f4e95aefc8ffba6f70c2
+    layerID: 1
+    mosaicPosition: {x: 321, y: 4}
+  rigPSDLayers:
+  - name: shoulder plate R
+    spriteName: shoulder plate R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 752525a065c5b42788ca0a700de3c59c
+    layerID: 29
+    mosaicPosition: {x: 4, y: 821}
+  - name: arm R
+    spriteName: arm R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ff455addc3ccf431ba70e232fabe1ebd
+    layerID: 28
+    mosaicPosition: {x: 153, y: 633}
+  - name: hand R bottom
+    spriteName: hand R bottom
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c09144f40e17c4d5aa2b087346655f56
+    layerID: 27
+    mosaicPosition: {x: 306, y: 797}
+  - name: hair front
+    spriteName: hair front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: bf9d1dc82a29249bbb907e5a0bd5eade
+    layerID: 26
+    mosaicPosition: {x: 306, y: 4}
+  - name: mouth
+    spriteName: shoulder plate L
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 695c519864bef4fd199225979fecd3a2
+    layerID: 25
+    mosaicPosition: {x: 160, y: 912}
+  - name: mouth open
+    spriteName: mouth open
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 9c9d78c0ca4c347b1ad1731ac8c8f4db
+    layerID: 24
+    mosaicPosition: {x: 306, y: 581}
+  - name: mouth teeth
+    spriteName: mouth teeth
+    isGroup: 0
+    parentIndex: 4
+    spriteID: a273c3499cf154e649d15ae80173fefd
+    layerID: 23
+    mosaicPosition: {x: 474, y: 107}
+  - name: mouth normal
+    spriteName: mouth normal
+    isGroup: 0
+    parentIndex: 4
+    spriteID: 9ad7bd2cd37254ce58a7385ddf0869ed
+    layerID: 22
+    mosaicPosition: {x: 474, y: 179}
+  - name: eye L
+    spriteName: mouth teeth
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 1bfaa200336594da68a17963a45145af
+    layerID: 20
+    mosaicPosition: {x: 160, y: 995}
+  - name: eye L closed
+    spriteName: eye L closed
+    isGroup: 0
+    parentIndex: 8
+    spriteID: a3f0eb971c86446fb8eb4c6c6fcc47fd
+    layerID: 19
+    mosaicPosition: {x: 117, y: 990}
+  - name: eye L open
+    spriteName: eye L open
+    isGroup: 0
+    parentIndex: 8
+    spriteID: 0037cebc007364a748f1f6db06009be9
+    layerID: 18
+    mosaicPosition: {x: 153, y: 972}
+  - name: eye R
+    spriteName: eye R closed
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 275e3ee62c3954d319c82a9b2ec6e4ef
+    layerID: 16
+    mosaicPosition: {x: 123, y: 810}
+  - name: eye R closed
+    spriteName: eye R closed
+    isGroup: 0
+    parentIndex: 11
+    spriteID: b7f9379a5d9c4437f87513c7d6cd586e
+    layerID: 15
+    mosaicPosition: {x: 96, y: 990}
+  - name: eye R open
+    spriteName: eye R open
+    isGroup: 0
+    parentIndex: 11
+    spriteID: a774d23ee153c46549ea93ece08777b4
+    layerID: 14
+    mosaicPosition: {x: 96, y: 942}
+  - name: head
+    spriteName: head
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 62a5ef3d8641d4dd0bc753447162c5cd
+    layerID: 12
+    mosaicPosition: {x: 306, y: 197}
+  - name: neck element
+    spriteName: neck element
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 81179e3d1615649f9a64e5cb47c8ec68
+    layerID: 11
+    mosaicPosition: {x: 698, y: 4}
+  - name: coat front
+    spriteName: coat front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: b8e237a09fb6243e0a168529d83fc46b
+    layerID: 10
+    mosaicPosition: {x: 306, y: 348}
+  - name: neck
+    spriteName: neck
+    isGroup: 0
+    parentIndex: -1
+    spriteID: baa0f96b8738942fea0d54acb4ac905e
+    layerID: 9
+    mosaicPosition: {x: 306, y: 867}
+  - name: torso
+    spriteName: torso
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f3d578b9808524e7293806b01581fbf6
+    layerID: 8
+    mosaicPosition: {x: 153, y: 4}
+  - name: leg R
+    spriteName: leg R
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 89ef3bff0103e450ba38f04e5cf90460
+    layerID: 7
+    mosaicPosition: {x: 4, y: 413}
+  - name: leg L
+    spriteName: leg L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 45de5af0074044daba8e64dbf18260c5
+    layerID: 6
+    mosaicPosition: {x: 4, y: 4}
+  - name: coat back
+    spriteName: coat back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 259ae881a0bfd437caece5cbc9be2b40
+    layerID: 5
+    mosaicPosition: {x: 306, y: 672}
+  - name: shoulder plate L
+    spriteName: shoulder plate L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 0f7bcc1a6920c4dffa28d5d5ca075228
+    layerID: 4
+    mosaicPosition: {x: 306, y: 481}
+  - name: hand L top
+    spriteName: hand L top
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c498aa628ce7345578154f97d988696e
+    layerID: 3
+    mosaicPosition: {x: 4, y: 942}
+  - name: arm L
+    spriteName: arm L
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1a72a03cef1db4816804ac7548e00910
+    layerID: 2
+    mosaicPosition: {x: 153, y: 316}
+  - name: hair back
+    spriteName: hair back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 2429c7d02516f44b086ce3cd676a63ff
+    layerID: 1
+    mosaicPosition: {x: 474, y: 4}
+  sharedRigPSDLayers: []
   generateGOHierarchy: 0
   textureAssetName: knightboy Texture
   prefabAssetName: knightboy Prefab
   spriteLibAssetName: knightboy Sprite Lib
+  skeletonAssetName: PSB_Character_Skeleton_Normal Skeleton
   secondarySpriteTextures: []

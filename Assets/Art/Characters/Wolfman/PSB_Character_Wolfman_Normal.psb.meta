@@ -597,6 +597,19 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: -367, y: 176}
+  characterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
   platformSettings:
   - name: Default
     overridden: 1
@@ -665,6 +678,7 @@ ScriptedImporter:
     allowsAlphaSplitting: 0
     androidETC2FallbackOverride: 0
   mosaicLayers: 1
+  characterMode: 1
   documentPivot: {x: 0, y: 0}
   documentAlignment: 7
   importHiddenLayers: 0
@@ -673,13 +687,13 @@ ScriptedImporter:
   documentSize: {x: 1024, y: 1024}
   paperDollMode: 0
   keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
   spriteCategoryList:
     categories: []
   textureActualWidth: 1024
   textureActualHeight: 1024
   spritePackingTag: 
   resliceFromLayer: 0
-  characterMode: 1
   mosaicPSDLayers: []
   rigPSDLayers:
   - name: shoulder plate R
@@ -864,13 +878,10 @@ ScriptedImporter:
     spriteID: 553b5942f04814813a8f8a57360de65c
     layerID: 1
     mosaicPosition: {x: 172, y: 956}
-  characterData:
-    bones: []
-    parts: []
-    dimension: {x: 0, y: 0}
-    characterGroups: []
+  sharedRigPSDLayers: []
   generateGOHierarchy: 0
   textureAssetName: wolfman_n Texture
   prefabAssetName: wolfman_n Prefab
   spriteLibAssetName: wolfman_n Sprite Lib
+  skeletonAssetName: PSB_Character_Wolfman_Normal Skeleton
   secondarySpriteTextures: []

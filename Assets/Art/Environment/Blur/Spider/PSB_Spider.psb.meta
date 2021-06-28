@@ -3288,95 +3288,6 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 114, y: 343}
-  platformSettings: []
-  mosaicLayers: 1
-  documentPivot: {x: 0, y: 0}
-  documentAlignment: 7
-  importHiddenLayers: 0
-  importedTextureWidth: 512
-  importedTextureHeight: 1024
-  documentSize: {x: 260, y: 810}
-  paperDollMode: 0
-  keepDupilcateSpriteName: 0
-  spriteCategoryList:
-    categories: []
-  textureActualWidth: 512
-  textureActualHeight: 1024
-  spritePackingTag: 
-  resliceFromLayer: 0
-  characterMode: 1
-  mosaicPSDLayers: []
-  rigPSDLayers:
-  - name: torso
-    spriteName: torso
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 7048b3b4a23b071479e14c181f7d852e
-    layerID: 10
-    mosaicPosition: {x: 74, y: 4}
-  - name: web
-    spriteName: web
-    isGroup: 0
-    parentIndex: -1
-    spriteID: ada6b275aa1908f4c848b49f9d58000f
-    layerID: 9
-    mosaicPosition: {x: 4, y: 4}
-  - name: leg_L01
-    spriteName: leg_L01
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 7719a60fb0cc3954eab459218747370c
-    layerID: 8
-    mosaicPosition: {x: 74, y: 217}
-  - name: leg_L02
-    spriteName: leg_L02
-    isGroup: 0
-    parentIndex: -1
-    spriteID: f8030aebb9ababa4fb3cf92eb0ea0976
-    layerID: 7
-    mosaicPosition: {x: 74, y: 587}
-  - name: leg_L03
-    spriteName: leg_L03
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 52a531bd1fdde35489e5786eac6ccf4f
-    layerID: 6
-    mosaicPosition: {x: 74, y: 776}
-  - name: leg_L04
-    spriteName: leg_L04
-    isGroup: 0
-    parentIndex: -1
-    spriteID: ff1fb397082b107478602c8daa9d9db8
-    layerID: 5
-    mosaicPosition: {x: 74, y: 877}
-  - name: leg_R01
-    spriteName: leg_R01
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 55dcd0ce27d9ece4983420c107f66af8
-    layerID: 4
-    mosaicPosition: {x: 74, y: 345}
-  - name: leg_R02
-    spriteName: leg_R02
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 7f139c51793c96f41adef946718b19fd
-    layerID: 3
-    mosaicPosition: {x: 74, y: 488}
-  - name: leg_R03
-    spriteName: leg_R03
-    isGroup: 0
-    parentIndex: -1
-    spriteID: fa1bba9ddc79cbb439b337b9b17b5bb5
-    layerID: 2
-    mosaicPosition: {x: 74, y: 677}
-  - name: leg_R04
-    spriteName: leg_R04
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 6ba5165c3996c6a46bf19705cb523fc7
-    layerID: 1
-    mosaicPosition: {x: 162, y: 345}
   characterData:
     bones:
     - name: root
@@ -3589,8 +3500,108 @@ ScriptedImporter:
       order: 0
     dimension: {x: 0, y: 0}
     characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings: []
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 1024
+  documentSize: {x: 260, y: 810}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: torso
+    spriteName: torso
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7048b3b4a23b071479e14c181f7d852e
+    layerID: 10
+    mosaicPosition: {x: 74, y: 4}
+  - name: web
+    spriteName: web
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ada6b275aa1908f4c848b49f9d58000f
+    layerID: 9
+    mosaicPosition: {x: 4, y: 4}
+  - name: leg_L01
+    spriteName: leg_L01
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7719a60fb0cc3954eab459218747370c
+    layerID: 8
+    mosaicPosition: {x: 74, y: 217}
+  - name: leg_L02
+    spriteName: leg_L02
+    isGroup: 0
+    parentIndex: -1
+    spriteID: f8030aebb9ababa4fb3cf92eb0ea0976
+    layerID: 7
+    mosaicPosition: {x: 74, y: 587}
+  - name: leg_L03
+    spriteName: leg_L03
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 52a531bd1fdde35489e5786eac6ccf4f
+    layerID: 6
+    mosaicPosition: {x: 74, y: 776}
+  - name: leg_L04
+    spriteName: leg_L04
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ff1fb397082b107478602c8daa9d9db8
+    layerID: 5
+    mosaicPosition: {x: 74, y: 877}
+  - name: leg_R01
+    spriteName: leg_R01
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 55dcd0ce27d9ece4983420c107f66af8
+    layerID: 4
+    mosaicPosition: {x: 74, y: 345}
+  - name: leg_R02
+    spriteName: leg_R02
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7f139c51793c96f41adef946718b19fd
+    layerID: 3
+    mosaicPosition: {x: 74, y: 488}
+  - name: leg_R03
+    spriteName: leg_R03
+    isGroup: 0
+    parentIndex: -1
+    spriteID: fa1bba9ddc79cbb439b337b9b17b5bb5
+    layerID: 2
+    mosaicPosition: {x: 74, y: 677}
+  - name: leg_R04
+    spriteName: leg_R04
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6ba5165c3996c6a46bf19705cb523fc7
+    layerID: 1
+    mosaicPosition: {x: 162, y: 345}
+  sharedRigPSDLayers: []
   generateGOHierarchy: 0
   textureAssetName: spider Texture
   prefabAssetName: spider Prefab
   spriteLibAssetName: spider Sprite Lib
+  skeletonAssetName: PSB_Spider Skeleton
   secondarySpriteTextures: []

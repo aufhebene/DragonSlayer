@@ -9078,361 +9078,6 @@ ScriptedImporter:
     tessellationDetail: 0
     parentGroupIndex: -1
     uvTransform: {x: 706, y: 1399}
-  platformSettings:
-  - name: Default
-    overridden: 1
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 2
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: DefaultTexturePlatform
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Standalone
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: iPhone
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: Android
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  - name: WebGL
-    overridden: 0
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
-    textureCompression: 0
-    compressionQuality: 50
-    forceMaximumCompressionQuality_BC6H_BC7: 0
-    crunchedCompression: 0
-    allowsAlphaSplitting: 0
-    androidETC2FallbackOverride: 0
-  mosaicLayers: 1
-  documentPivot: {x: 0, y: 0}
-  documentAlignment: 7
-  importHiddenLayers: 0
-  importedTextureWidth: 2048
-  importedTextureHeight: 2048
-  documentSize: {x: 2960, y: 1582}
-  paperDollMode: 0
-  keepDupilcateSpriteName: 0
-  spriteCategoryList:
-    categories:
-    - name: wing_l_part_03
-      labels:
-      - name: wing_l_part_03
-        spriteId: ff54ad4724826477785480ec264e1169
-    - name: wing_l_part_02
-      labels:
-      - name: wing_l_part_02
-        spriteId: a44b73a34b1534e228b9aa494e184cf5
-    - name: wing_r_part_01
-      labels:
-      - name: wing_r_part_01
-        spriteId: c5764bb8296be4973a09db8c85396826
-    - name: wing_l_skin
-      labels:
-      - name: wing_l_skin
-        spriteId: d04ecf9c61ac6428889c92151430d347
-    - name: leg_back_l
-      labels:
-      - name: leg_back_l
-        spriteId: 7bfc01c93eb3f46dda3922fc5992f8ce
-    - name: paw_front_l
-      labels:
-      - name: paw_front_l
-        spriteId: c67d2a1c09baa4fcd8d7347dba657380
-    - name: leg_front_l
-      labels:
-      - name: leg_front_l
-        spriteId: 7cb11f84322644c2391bc3c9d74ee02d
-    - name: neck
-      labels:
-      - name: neck
-        spriteId: 80b3c19f3a9fa4d4c9f1789194059ca2
-    - name: torso
-      labels:
-      - name: torso
-        spriteId: c3fbd9d01a1004b0fa836bf0be9f96cf
-    - name: scales_neck
-      labels:
-      - name: scales_neck
-        spriteId: 63924da934890413ca1595d3bd8e7965
-    - name: scales_back
-      labels:
-      - name: scales_back
-        spriteId: 1b454d0d55d0c443db6fada0f8f89645
-    - name: leg_front_r
-      labels:
-      - name: leg_front_r
-        spriteId: df8cb144c259641b58c68ee675d6118b
-    - name: wing_r
-      labels:
-      - name: wing_r
-        spriteId: 679f5f3a5d87d41a295900bae4da3b72
-    - name: leg_back_r
-      labels:
-      - name: leg_back_r
-        spriteId: 70f4178836e6d4814a8db33e40d65314
-    - name: eye
-      labels:
-      - name: eye_open
-        spriteId: 2f3acb13d62a847fa976d3796b954b49
-      - name: eye_closed
-        spriteId: 9cf49ebb3598f43b8ae17095ee2eed12
-    - name: tongue_group
-      labels:
-      - name: tongue
-        spriteId: b3e65a0ab32e444f3b2a3a7a13a1870f
-      - name: tongue_dead
-        spriteId: 5742b43411f46493e8ae8cf21d5f0599
-    - name: nostril
-      labels:
-      - name: nostril
-        spriteId: bdc43ebd8104848cd89c916b9daf3a65
-    - name: head_top
-      labels:
-      - name: head_top
-        spriteId: 8e49066b651944cd2942589314131e9d
-    - name: jaw_front
-      labels:
-      - name: jaw_front
-        spriteId: ed998eabfaa5d4d239224f10b99f475f
-    - name: jaw_back
-      labels:
-      - name: jaw_back
-        spriteId: 72bc99648f4c74b11b5cc03bb91449a9
-    - name: little_wing
-      labels:
-      - name: little_wing
-        spriteId: 6ba090f63e8484fe785961c36cd136f4
-  textureActualWidth: 4096
-  textureActualHeight: 4096
-  spritePackingTag: 
-  resliceFromLayer: 1
-  characterMode: 1
-  mosaicPSDLayers: []
-  rigPSDLayers:
-  - name: head
-    spriteName: 
-    isGroup: 1
-    parentIndex: -1
-    spriteID: 00000000000000000000000000000000
-    layerID: 29
-    mosaicPosition: {x: 0, y: 0}
-  - name: nostril
-    spriteName: nostril
-    isGroup: 0
-    parentIndex: 0
-    spriteID: bdc43ebd8104848cd89c916b9daf3a65
-    layerID: 28
-    mosaicPosition: {x: 1926, y: 2232}
-  - name: eye
-    spriteName: 
-    isGroup: 1
-    parentIndex: 0
-    spriteID: 00000000000000000000000000000000
-    layerID: 27
-    mosaicPosition: {x: 0, y: 0}
-  - name: eye_closed
-    spriteName: eye_closed
-    isGroup: 0
-    parentIndex: 2
-    spriteID: 9cf49ebb3598f43b8ae17095ee2eed12
-    layerID: 26
-    mosaicPosition: {x: 1750, y: 2232}
-  - name: eye_open
-    spriteName: eye_open
-    isGroup: 0
-    parentIndex: 2
-    spriteID: 2f3acb13d62a847fa976d3796b954b49
-    layerID: 25
-    mosaicPosition: {x: 1926, y: 2316}
-  - name: head_top
-    spriteName: head_top
-    isGroup: 0
-    parentIndex: 0
-    spriteID: 8e49066b651944cd2942589314131e9d
-    layerID: 23
-    mosaicPosition: {x: 3448, y: 4}
-  - name: jaw_front
-    spriteName: jaw_front
-    isGroup: 0
-    parentIndex: 0
-    spriteID: ed998eabfaa5d4d239224f10b99f475f
-    layerID: 22
-    mosaicPosition: {x: 1323, y: 2132}
-  - name: tongue_group
-    spriteName: 
-    isGroup: 1
-    parentIndex: 0
-    spriteID: 00000000000000000000000000000000
-    layerID: 21
-    mosaicPosition: {x: 0, y: 0}
-  - name: tongue_dead
-    spriteName: tongue_dead
-    isGroup: 0
-    parentIndex: 7
-    spriteID: 5742b43411f46493e8ae8cf21d5f0599
-    layerID: 20
-    mosaicPosition: {x: 1227, y: 2281}
-  - name: tongue
-    spriteName: tongue
-    isGroup: 0
-    parentIndex: 7
-    spriteID: b3e65a0ab32e444f3b2a3a7a13a1870f
-    layerID: 19
-    mosaicPosition: {x: 987, y: 2281}
-  - name: jaw_back
-    spriteName: jaw_back
-    isGroup: 0
-    parentIndex: 0
-    spriteID: 72bc99648f4c74b11b5cc03bb91449a9
-    layerID: 17
-    mosaicPosition: {x: 3753, y: 745}
-  - name: little_wing
-    spriteName: little_wing
-    isGroup: 0
-    parentIndex: 0
-    spriteID: 6ba090f63e8484fe785961c36cd136f4
-    layerID: 16
-    mosaicPosition: {x: 3753, y: 946}
-  - name: wing_l_part_03
-    spriteName: wing_l_part_03
-    isGroup: 0
-    parentIndex: -1
-    spriteID: ff54ad4724826477785480ec264e1169
-    layerID: 14
-    mosaicPosition: {x: 1226, y: 745}
-  - name: wing_l_part_02
-    spriteName: wing_l_part_02
-    isGroup: 0
-    parentIndex: -1
-    spriteID: a44b73a34b1534e228b9aa494e184cf5
-    layerID: 13
-    mosaicPosition: {x: 433, y: 1608}
-  - name: wing_r_part_01
-    spriteName: wing_r_part_01
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c5764bb8296be4973a09db8c85396826
-    layerID: 12
-    mosaicPosition: {x: 2083, y: 1608}
-  - name: wing_l_skin
-    spriteName: wing_l_skin
-    isGroup: 0
-    parentIndex: -1
-    spriteID: d04ecf9c61ac6428889c92151430d347
-    layerID: 11
-    mosaicPosition: {x: 4, y: 745}
-  - name: leg_back_l
-    spriteName: leg_back_l
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 7bfc01c93eb3f46dda3922fc5992f8ce
-    layerID: 10
-    mosaicPosition: {x: 987, y: 1608}
-  - name: paw_front_l
-    spriteName: paw_front_l
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c67d2a1c09baa4fcd8d7347dba657380
-    layerID: 9
-    mosaicPosition: {x: 2083, y: 2278}
-  - name: leg_front_l
-    spriteName: leg_front_l
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 7cb11f84322644c2391bc3c9d74ee02d
-    layerID: 8
-    mosaicPosition: {x: 1323, y: 1608}
-  - name: neck
-    spriteName: neck
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 80b3c19f3a9fa4d4c9f1789194059ca2
-    layerID: 7
-    mosaicPosition: {x: 4, y: 1608}
-  - name: torso
-    spriteName: torso
-    isGroup: 0
-    parentIndex: -1
-    spriteID: c3fbd9d01a1004b0fa836bf0be9f96cf
-    layerID: 6
-    mosaicPosition: {x: 4, y: 4}
-  - name: scales_neck
-    spriteName: scales_neck
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 63924da934890413ca1595d3bd8e7965
-    layerID: 5
-    mosaicPosition: {x: 433, y: 2048}
-  - name: scales_back
-    spriteName: scales_back
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 1b454d0d55d0c443db6fada0f8f89645
-    layerID: 4
-    mosaicPosition: {x: 2654, y: 745}
-  - name: leg_front_r
-    spriteName: leg_front_r
-    isGroup: 0
-    parentIndex: -1
-    spriteID: df8cb144c259641b58c68ee675d6118b
-    layerID: 3
-    mosaicPosition: {x: 2379, y: 1608}
-  - name: wing_r
-    spriteName: wing_r
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 679f5f3a5d87d41a295900bae4da3b72
-    layerID: 2
-    mosaicPosition: {x: 2391, y: 4}
-  - name: leg_back_r
-    spriteName: leg_back_r
-    isGroup: 0
-    parentIndex: -1
-    spriteID: 70f4178836e6d4814a8db33e40d65314
-    layerID: 1
-    mosaicPosition: {x: 1750, y: 1608}
   characterData:
     bones:
     - name: root
@@ -10068,10 +9713,376 @@ ScriptedImporter:
       order: 0
     dimension: {x: 0, y: 0}
     characterGroups: []
+    boneReadOnly: 0
+  sharedRigSpriteImportData: []
+  sharedRigCharacterData:
+    bones: []
+    parts: []
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+    boneReadOnly: 0
+  platformSettings:
+  - name: Default
+    overridden: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: DefaultTexturePlatform
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Standalone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: iPhone
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: Android
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  - name: WebGL
+    overridden: 0
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    androidETC2FallbackOverride: 0
+  mosaicLayers: 1
+  characterMode: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 2048
+  importedTextureHeight: 2048
+  documentSize: {x: 2960, y: 1582}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  skeletonAssetReferenceID: 
+  spriteCategoryList:
+    categories:
+    - name: wing_l_part_03
+      labels:
+      - name: wing_l_part_03
+        spriteId: ff54ad4724826477785480ec264e1169
+    - name: wing_l_part_02
+      labels:
+      - name: wing_l_part_02
+        spriteId: a44b73a34b1534e228b9aa494e184cf5
+    - name: wing_r_part_01
+      labels:
+      - name: wing_r_part_01
+        spriteId: c5764bb8296be4973a09db8c85396826
+    - name: wing_l_skin
+      labels:
+      - name: wing_l_skin
+        spriteId: d04ecf9c61ac6428889c92151430d347
+    - name: leg_back_l
+      labels:
+      - name: leg_back_l
+        spriteId: 7bfc01c93eb3f46dda3922fc5992f8ce
+    - name: paw_front_l
+      labels:
+      - name: paw_front_l
+        spriteId: c67d2a1c09baa4fcd8d7347dba657380
+    - name: leg_front_l
+      labels:
+      - name: leg_front_l
+        spriteId: 7cb11f84322644c2391bc3c9d74ee02d
+    - name: neck
+      labels:
+      - name: neck
+        spriteId: 80b3c19f3a9fa4d4c9f1789194059ca2
+    - name: torso
+      labels:
+      - name: torso
+        spriteId: c3fbd9d01a1004b0fa836bf0be9f96cf
+    - name: scales_neck
+      labels:
+      - name: scales_neck
+        spriteId: 63924da934890413ca1595d3bd8e7965
+    - name: scales_back
+      labels:
+      - name: scales_back
+        spriteId: 1b454d0d55d0c443db6fada0f8f89645
+    - name: leg_front_r
+      labels:
+      - name: leg_front_r
+        spriteId: df8cb144c259641b58c68ee675d6118b
+    - name: wing_r
+      labels:
+      - name: wing_r
+        spriteId: 679f5f3a5d87d41a295900bae4da3b72
+    - name: leg_back_r
+      labels:
+      - name: leg_back_r
+        spriteId: 70f4178836e6d4814a8db33e40d65314
+    - name: eye
+      labels:
+      - name: eye_open
+        spriteId: 2f3acb13d62a847fa976d3796b954b49
+      - name: eye_closed
+        spriteId: 9cf49ebb3598f43b8ae17095ee2eed12
+    - name: tongue_group
+      labels:
+      - name: tongue
+        spriteId: b3e65a0ab32e444f3b2a3a7a13a1870f
+      - name: tongue_dead
+        spriteId: 5742b43411f46493e8ae8cf21d5f0599
+    - name: nostril
+      labels:
+      - name: nostril
+        spriteId: bdc43ebd8104848cd89c916b9daf3a65
+    - name: head_top
+      labels:
+      - name: head_top
+        spriteId: 8e49066b651944cd2942589314131e9d
+    - name: jaw_front
+      labels:
+      - name: jaw_front
+        spriteId: ed998eabfaa5d4d239224f10b99f475f
+    - name: jaw_back
+      labels:
+      - name: jaw_back
+        spriteId: 72bc99648f4c74b11b5cc03bb91449a9
+    - name: little_wing
+      labels:
+      - name: little_wing
+        spriteId: 6ba090f63e8484fe785961c36cd136f4
+  textureActualWidth: 4096
+  textureActualHeight: 4096
+  spritePackingTag: 
+  resliceFromLayer: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: head
+    spriteName: 
+    isGroup: 1
+    parentIndex: -1
+    spriteID: 00000000000000000000000000000000
+    layerID: 29
+    mosaicPosition: {x: 0, y: 0}
+  - name: nostril
+    spriteName: nostril
+    isGroup: 0
+    parentIndex: 0
+    spriteID: bdc43ebd8104848cd89c916b9daf3a65
+    layerID: 28
+    mosaicPosition: {x: 1926, y: 2232}
+  - name: eye
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 27
+    mosaicPosition: {x: 0, y: 0}
+  - name: eye_closed
+    spriteName: eye_closed
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 9cf49ebb3598f43b8ae17095ee2eed12
+    layerID: 26
+    mosaicPosition: {x: 1750, y: 2232}
+  - name: eye_open
+    spriteName: eye_open
+    isGroup: 0
+    parentIndex: 2
+    spriteID: 2f3acb13d62a847fa976d3796b954b49
+    layerID: 25
+    mosaicPosition: {x: 1926, y: 2316}
+  - name: head_top
+    spriteName: head_top
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 8e49066b651944cd2942589314131e9d
+    layerID: 23
+    mosaicPosition: {x: 3448, y: 4}
+  - name: jaw_front
+    spriteName: jaw_front
+    isGroup: 0
+    parentIndex: 0
+    spriteID: ed998eabfaa5d4d239224f10b99f475f
+    layerID: 22
+    mosaicPosition: {x: 1323, y: 2132}
+  - name: tongue_group
+    spriteName: 
+    isGroup: 1
+    parentIndex: 0
+    spriteID: 00000000000000000000000000000000
+    layerID: 21
+    mosaicPosition: {x: 0, y: 0}
+  - name: tongue_dead
+    spriteName: tongue_dead
+    isGroup: 0
+    parentIndex: 7
+    spriteID: 5742b43411f46493e8ae8cf21d5f0599
+    layerID: 20
+    mosaicPosition: {x: 1227, y: 2281}
+  - name: tongue
+    spriteName: tongue
+    isGroup: 0
+    parentIndex: 7
+    spriteID: b3e65a0ab32e444f3b2a3a7a13a1870f
+    layerID: 19
+    mosaicPosition: {x: 987, y: 2281}
+  - name: jaw_back
+    spriteName: jaw_back
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 72bc99648f4c74b11b5cc03bb91449a9
+    layerID: 17
+    mosaicPosition: {x: 3753, y: 745}
+  - name: little_wing
+    spriteName: little_wing
+    isGroup: 0
+    parentIndex: 0
+    spriteID: 6ba090f63e8484fe785961c36cd136f4
+    layerID: 16
+    mosaicPosition: {x: 3753, y: 946}
+  - name: wing_l_part_03
+    spriteName: wing_l_part_03
+    isGroup: 0
+    parentIndex: -1
+    spriteID: ff54ad4724826477785480ec264e1169
+    layerID: 14
+    mosaicPosition: {x: 1226, y: 745}
+  - name: wing_l_part_02
+    spriteName: wing_l_part_02
+    isGroup: 0
+    parentIndex: -1
+    spriteID: a44b73a34b1534e228b9aa494e184cf5
+    layerID: 13
+    mosaicPosition: {x: 433, y: 1608}
+  - name: wing_r_part_01
+    spriteName: wing_r_part_01
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c5764bb8296be4973a09db8c85396826
+    layerID: 12
+    mosaicPosition: {x: 2083, y: 1608}
+  - name: wing_l_skin
+    spriteName: wing_l_skin
+    isGroup: 0
+    parentIndex: -1
+    spriteID: d04ecf9c61ac6428889c92151430d347
+    layerID: 11
+    mosaicPosition: {x: 4, y: 745}
+  - name: leg_back_l
+    spriteName: leg_back_l
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7bfc01c93eb3f46dda3922fc5992f8ce
+    layerID: 10
+    mosaicPosition: {x: 987, y: 1608}
+  - name: paw_front_l
+    spriteName: paw_front_l
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c67d2a1c09baa4fcd8d7347dba657380
+    layerID: 9
+    mosaicPosition: {x: 2083, y: 2278}
+  - name: leg_front_l
+    spriteName: leg_front_l
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 7cb11f84322644c2391bc3c9d74ee02d
+    layerID: 8
+    mosaicPosition: {x: 1323, y: 1608}
+  - name: neck
+    spriteName: neck
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 80b3c19f3a9fa4d4c9f1789194059ca2
+    layerID: 7
+    mosaicPosition: {x: 4, y: 1608}
+  - name: torso
+    spriteName: torso
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c3fbd9d01a1004b0fa836bf0be9f96cf
+    layerID: 6
+    mosaicPosition: {x: 4, y: 4}
+  - name: scales_neck
+    spriteName: scales_neck
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 63924da934890413ca1595d3bd8e7965
+    layerID: 5
+    mosaicPosition: {x: 433, y: 2048}
+  - name: scales_back
+    spriteName: scales_back
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 1b454d0d55d0c443db6fada0f8f89645
+    layerID: 4
+    mosaicPosition: {x: 2654, y: 745}
+  - name: leg_front_r
+    spriteName: leg_front_r
+    isGroup: 0
+    parentIndex: -1
+    spriteID: df8cb144c259641b58c68ee675d6118b
+    layerID: 3
+    mosaicPosition: {x: 2379, y: 1608}
+  - name: wing_r
+    spriteName: wing_r
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 679f5f3a5d87d41a295900bae4da3b72
+    layerID: 2
+    mosaicPosition: {x: 2391, y: 4}
+  - name: leg_back_r
+    spriteName: leg_back_r
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 70f4178836e6d4814a8db33e40d65314
+    layerID: 1
+    mosaicPosition: {x: 1750, y: 1608}
+  sharedRigPSDLayers: []
   generateGOHierarchy: 0
   textureAssetName: ghdgfxfgc Texture
   prefabAssetName: ghdgfxfgc Prefab
   spriteLibAssetName: ghdgfxfgc Sprite Lib
+  skeletonAssetName: PSB_Character_Dragon_Normal Skeleton
   secondarySpriteTextures:
   - name: _MaskTex
     texture: {fileID: -3053833075576909486, guid: 9977384ec6023432e982025c94509df9,
