@@ -14,6 +14,8 @@ namespace DragonCrashers
         public NumberDisplayManager numberDisplayManager;
         public HitVFXDisplayManager hitVFXDisplayManager;
 
+
+        private GameObject crashObject;
         void OnEnable()
         {
             for(int i = 0; i < unitDamageDisplayBehaviours.Length; i++)
@@ -32,6 +34,9 @@ namespace DragonCrashers
 
         void ShowDamageDisplays(int damageAmount, Transform damageLocation, Color damageColor)
         {
+            crashObject.SetActive(true);
+            int[] i = new []{1};
+            i[10] = 0;
             numberDisplayManager.ShowNumber(damageAmount, damageLocation, damageColor);
             hitVFXDisplayManager.ShowHitVFX(damageLocation);
         }
